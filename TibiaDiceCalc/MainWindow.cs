@@ -33,6 +33,7 @@ namespace TibiaDiceCalc
                 {
                     lbBalanceAmount.Text = (tmp + tmp1).ToString();
                 }
+                //fjasdjas
                 
             }
             if (rbNumber.Checked)
